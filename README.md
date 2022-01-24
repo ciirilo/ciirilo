@@ -1,5 +1,4 @@
 
-# Hi there! I'm Paulo Mariano
 ### :computer: Back-End Developer! 
 
 ## About Me
