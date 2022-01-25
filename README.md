@@ -1,17 +1,19 @@
+## Sobre 
+💻 Desenvolvedor Back-End C#.
+<br>🎓Cursando Análise e Desenvolvimento de Sistemas.
+<br>📚 Web Services, Microserviços.
+<hr>
+<div align="center">
+<a href = "mailto:pmachado.new@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/paulo-machado-mariano-5991991b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-### :computer: Back-End Developer! 
-
-## About Me
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ciirilo)](https://github.com/ciirilo) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-machado-mariano-5991991b7)](https://www.linkedin.com/in/paulo-machado-mariano-5991991b7)
-
-## Languages and Tools
-
-<img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">   <img src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">  <img src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">   <img src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">  
-
-<img src= "https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">   <img src= "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">  <img src= "https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"> <img src= "https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">  
-
-<img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src= "https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black"> 
-
-[![ciirilo github stats](https://github-readme-stats.vercel.app/api?username=ciirilo&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/ciirilo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciirilo&layout=compact&theme=tokyonight)](https://github.com/ciirilo/github-readme-stats)
+ <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Paulo-DotNetCore" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Paulo-DotNet" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg">
+  <img align="center" alt="Paulo-CSharp" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Paulo-MySql" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Paulo-Oracle" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Paulo-GitHub" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  <img align="center" alt="Paulo-VisualStudio" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
+</div>
