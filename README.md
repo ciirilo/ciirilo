@@ -1,5 +1,5 @@
 ## Sobre 
-💻 Desenvolvedor Back-End C#| Java
+💻 Desenvolvedor C#| Java | Typescript - Spring Boot | .NetCore | Angular
 <br>🎓Cursando Análise e Desenvolvimento de Sistemas.
 <br>📚 Web Services, Microserviços.
 <hr>
